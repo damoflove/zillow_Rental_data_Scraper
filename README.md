@@ -1,6 +1,4 @@
-
-                                                                 🏠 Zillow Property Scraper
-
+🏠 Zillow Property Scraper
 
 A robust web scraping tool designed to extract real estate listings from Zillow.com. Built with Python and Selenium, this scraper automates property data collection while handling modern web challenges like dynamic content loading and anti-bot measures.
 

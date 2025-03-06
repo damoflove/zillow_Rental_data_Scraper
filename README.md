@@ -14,7 +14,7 @@ A robust web scraping tool designed to extract real estate listings from Zillow.
   - Bed/Bath Counts
   - Square Footage
   - Direct Listing URLs
-  - 
+    
 **Anti-Detection Techniques**:
   
   - Randomized delays between actions

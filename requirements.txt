@@ -1,0 +1,7 @@
+streamlit 
+pandas 
+selenium 
+webdriver-manager 
+fake-useragent 
+pyautogui
+selenium_stealth
